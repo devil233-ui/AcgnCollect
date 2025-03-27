@@ -1,17 +1,16 @@
-——devil 2020.1.21
+![图片1](https://github.com/user-attachments/assets/2e8916c9-1f85-45d1-989c-224f7f675900)
+
+——devil 始于2020.1.21
 
 # 必看的前言部分
 
 作为一个入坑晚的新人，看到汇总楼的毒盘链接被和谐掉大半是相当绝望的，询问过大吧小吧都表示补档无力，因此萌生了进行onedrive全局备份的想法。而所幸多方努力后基本找齐了资源档案，对[原帖](https://tieba.baidu.com/p/5013062537)删繁就简重新整理后便有了此文档。在此感谢为星之梦做出贡献的前人们和给予我帮助的所有星之人，以及为自己无意或不得已之下挖了些坟帖的行为致歉。
 
-
 大部分档案我都尽所能进行了出处溯源和备注，但仍有小部分无能为力，若发现自己的成果被人删除了作者的请找我认领，我会进行添加。
-
 
 相比于上一版本的置顶楼，主要是进行了更详细的整理优化，而改动最大的是cd区和动画区，具体见文档内相关说明；然后就是一些珍贵资料的存档和大量考古收集了。
 
 另外，各位精品帖的发帖者如有自己帖子的备份请务必发一份给我(还没备份的现在动手也来得及)，虽然之后我也会逐步进行归档，但一个人的能力真的很有限，所以拜托了！！
-
 
 这几个已经失效或几乎被吞光的帖子，在此征集下可能性微存的备份档。。。
 
@@ -40,16 +39,6 @@
 
 **PC请擅使用搜索(ctrl+F)和目录(界面左侧)功能，爪机端的话要先登陆再点右上角那三条横线标志(的亚子？)。资源不定期新增，详见最底更新日志。**
 
-
-# 反馈和建议地址：星之梦吧
-
-[https://tieba.baidu.com/p/6458011179](https://tieba.baidu.com/p/6458011179)
-
-# 或者 [https://about.me/devil233](https://about.me/devil233)
-
-
-另外，在线文档虽然甩屑贴吧十条街，但也不排除共享链接偶然被审核抽风ban掉或者有人恶意举报(之前ef的血泪史不想重提)，请及时做好此文档备份。真万一发生了以上恶劣事件，我会将处理好的新链接发在反馈帖子里。
-
 # 总下载地址
 
 ~~OneManager部署，批量下载需使用~~[idm](http://www.internetdownloadmanager.com/)~~等进行抓取。~~
@@ -63,9 +52,6 @@ OD，第一次开较慢，经过服务器缓存，之后打开将为正常速度
 
 [https://unsccn-my.sharepoint.com/:f:/g/personal/233_unsc_me/EuvUNnh6TGdFsb4xC7hrsAMBiVoNvTxPFs_DBmqc8GB-xw?e=4FSx4W](https://unsccn-my.sharepoint.com/:f:/g/personal/233_unsc_me/EuvUNnh6TGdFsb4xC7hrsAMBiVoNvTxPFs_DBmqc8GB-xw?e=4FSx4W)
 
-
-[https://alilin-my.sharepoint.com/:f:/g/personal/devil_xlu_me/EqrLjNtg6ilMu10P0jHEiIgBoH5NAYy6Hv0FXbPzjXUxbg](https://alilin-my.sharepoint.com/:f:/g/personal/devil_xlu_me/EqrLjNtg6ilMu10P0jHEiIgBoH5NAYy6Hv0FXbPzjXUxbg)
-
 # 目录List
 
 ## 原作游戏
@@ -73,7 +59,6 @@ OD，第一次开较慢，经过服务器缓存，之后打开将为正常速度
 本人仅进行归档，关于各版本具体说明和遇到的问题，请自行利用搜索引擎或询问他人。
 
 注：HD为高清重置，全角色语音
-
 
 1.Steam正版
 
@@ -360,6 +345,9 @@ Stage1st 星之梦专楼
 
 以及下列手动存档的(主要为贴吧随时可能被干掉的帖子和一些非登陆者无法访问的帖子)
 
+<img width="396" alt="image" src="https://github.com/user-attachments/assets/ae262f59-a316-44d4-a0fa-913b3a738370" />
+
+
 ## 看星象的好工具
 
 [http://stellarium.org/zh_CN/](http://stellarium.org/zh_CN/)
@@ -375,6 +363,9 @@ Illustration ＆ Interview BOOK
 转载保留完整信息并注明@kf湿帝
 
 ## 其他
+
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/49743b77-81ea-4bb9-a5e3-eeda4d742d92" />
+
 
 # 更新日志
 
