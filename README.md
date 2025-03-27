@@ -39,7 +39,7 @@ https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/Ek0cc2Z
 
 ## 星之梦(planetarian)
 
-https://shimo.im/docs/WrckGTCvDQDcYWGh
+(./Parts/Planetarian.md)
 
 ## 小圆脸(魔法少女まどか)
 
