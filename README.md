@@ -47,7 +47,7 @@ https://unsccn-my.sharepoint.com/:f:/g/personal/233_0601_ml/EnGZoxmzqPBBrlVTjEAM
 
 ## 石头门(Steins;Gate)
 
-[谷歌文档](https://docs.google.com/document/d/1iy8uuAqUtINnfYP_DYmCStDTz_CA6O9W)
+[谷歌文档-辣石无损整合](https://docs.google.com/document/d/1iy8uuAqUtINnfYP_DYmCStDTz_CA6O9W)
 
 [未来技术实验室·科A共享服务器](https://drive.sci-adv.cc/zh-CN/)
 
