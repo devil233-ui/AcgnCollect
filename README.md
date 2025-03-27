@@ -1,4 +1,4 @@
-写在开头：这个合集之前一直呆在语雀（将近快十年），但国内申鹤越来越严了，动不动就莫名触发*点给禁止共享（下面的一些文档其实也炸了部分，会陆续转移过来放在parts文件夹下），考虑再三还是转移过来了。
+写在开头：这个合集之前一直呆在语雀（将近快十年），但国内申鹤越来越严了，动不动就莫名触发*点给禁止共享，考虑再三还是转移过来了（下面的一些文档其实也炸了部分，会陆续转移过来放在parts文件夹下）。
 
 # 个人渣自抓扫合集
 
@@ -9,7 +9,7 @@ DVD抓轨采用的是DVD Decrypter，CD采用的是EAC，应该还是能满足�
 
 (如果有人愿意帮忙处理后期就更好了）
 
-第一次开较慢，经过服务器缓存，之后打开将为正常速度，电信建议挂梯子。
+第一次开较慢，经过服务器缓存，之后打开将为正常速度，有问题就用代理。
 
 https://unsccn-my.sharepoint.com/:f:/g/personal/233_0601_ml/EnGZoxmzqPBBrlVTjEAMI_cBMTN77rDwVj2Kt07eU7xaPQ?e=vmAs1i
 
@@ -25,31 +25,31 @@ https://unsccn-my.sharepoint.com/:f:/g/personal/233_0601_ml/EnGZoxmzqPBBrlVTjEAM
 
 ## ef-悠久之翼
 
-https://github.com/devil233-ui/ef_collection
+[Github仓库](https://github.com/devil233-ui/ef_collection)
 
 ## ISLAND
 
-https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/EkzAwE8zX2BMrThVgX43agoBwW34zijjrIzbsFWzGzl2bA?e=mMdN14
+[OD](https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/EkzAwE8zX2BMrThVgX43agoBwW34zijjrIzbsFWzGzl2bA?e=mMdN14)
 
 ## 朝花夕誓(さよならの朝に約束の花をかざろう)
 
-https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/Ek0cc2Za_xhMiOgVnD9qOTkBjOXp_PwY9BFRzE9WjtLeIg?e=SaNRNM
+[OD](https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/Ek0cc2Za_xhMiOgVnD9qOTkBjOXp_PwY9BFRzE9WjtLeIg?e=SaNRNM)
 
-备份（需代理）https://1drv.ms/f/s!Asr5qD_x2E2Tgpw8z6VSEcPox19uAw
+备份（需代理）[OD](https://1drv.ms/f/s!Asr5qD_x2E2Tgpw8z6VSEcPox19uAw)
 
 ## 星之梦(planetarian)
 
-(./Parts/Planetarian.md)
+[本仓库Parts](./Parts/Planetarian.md)
 
 ## 小圆脸(魔法少女まどか)
 
-https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/En6Hr6B95chEub5kXbQmDUsBnba3HshCMPW1dWh1BsTGVQ?e=E566rZ
+[OD](https://kk55-my.sharepoint.com/:f:/g/personal/devil_kk55_onmicrosoft_com/En6Hr6B95chEub5kXbQmDUsBnba3HshCMPW1dWh1BsTGVQ?e=E566rZ)
 
 ## 石头门(Steins;Gate)
 
-https://docs.google.com/document/d/1iy8uuAqUtINnfYP_DYmCStDTz_CA6O9W
+[谷歌文档](https://docs.google.com/document/d/1iy8uuAqUtINnfYP_DYmCStDTz_CA6O9W)
 
-https://drive.sci-adv.cc/zh-CN/
+[未来技术实验室·科A共享服务器](https://drive.sci-adv.cc/zh-CN/)
 
 ## 科学adv中文维基
 
@@ -59,11 +59,11 @@ https://sci-adv.cc
 
 ## RE0中文维基+资源汇总
 
-https://rezero.fandom.com/zh/f/p/4400000000000025340
+[Fandom](https://rezero.fandom.com/zh/f/p/4400000000000025340)
 
 ## 物语系列动画合集
 
-[枕]詩 -櫻の森の上を舞う-
+## [枕]詩 -櫻の森の上を舞う-
 
 ## FATE(这个就道阻且长了==)
 
